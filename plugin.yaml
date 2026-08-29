@@ -1,0 +1,3 @@
+name: chatgpt-usage
+version: 1.0.0
+description: "Shows the remaining OpenAI Codex/ChatGPT allowance in Hermes Desktop."
